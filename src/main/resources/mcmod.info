@@ -1,0 +1,16 @@
+[
+{
+  "modid": "surfacelightning",
+  "name": "SurfaceLightning",
+  "description": "Creates random lightning at the world's surface",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dogboy21"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
